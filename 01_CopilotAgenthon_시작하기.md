@@ -6,19 +6,20 @@
 
 >불가피하게 iPad, Android 환경이시거나 Windows, Mac 환경임에도 성능 이슈가 있으실 경우 아래 AVD 접속 프로세스 부터 시작하시면 되고,
 
->OS, 성능 이슈가 없으신 경우 굳이 AVD를 사용할 필요 없이, ??번째로 넘어 가시면 됩니다.
+>OS, 성능 이슈가 없으신 경우 굳이 AVD를 사용할 필요 없이, 2️⃣ 번으로 넘어 가시면 됩니다.
 
 ---
 
-🧭 전체 진행 흐름
-	1.	Windows App 설치 및 실행
-	2.	Work/School 계정 추가
-	3.	최초 로그인 & 비밀번호 변경
-	4.	Azure Virtual Desktop 접속
-	5.	Windows 환경 로그인
-	6.	Copilot Studio 접속 및 에이전트 생성
+## 🧭 전체 진행 흐름
+	1️⃣	Windows App 설치 및 실행
+	
+	2️⃣	mieestudio 계정 확인
+	
+	3️⃣	Copilot Studio 접속 및 에이전트 게시
+	
+	4️⃣	Microsoft Foundry 접속
 
-⸻
+---
 
 1️⃣ Windows App 실행 (AVD Client)
 
