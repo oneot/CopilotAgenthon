@@ -259,7 +259,7 @@ Azure Virtual Desktop(AVD)에 접속하기 위해 먼저 **Windows App (AVD Clie
 ### 🌐 Microsoft Foundry 접속
 
 - 브라우저를 열고 아래 주소로 접속합니다.
-	- ai.auzre.com
+	- ai.azure.com
 - 접속 후 우측 상단의 **새 Foundry** 토글을 **ON** 으로 변경합니다.
 
 <img width="2560" height="1440" alt="스크린샷 2025-12-15 00 44 56" src="https://github.com/user-attachments/assets/aac9ae69-f303-4d94-8c06-6092adc0f1d3" />
